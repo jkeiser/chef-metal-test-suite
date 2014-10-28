@@ -6,6 +6,9 @@ This document outlines the concerted effort to building a quality, sustaining au
 ### Improve the Testing Process
 How has testing been executing up to this point?
 
+> For Provisioning, we have run individual tests in the `docs/examples` directory--it has been entirely manual.
+> For Cheffish, we have a reasonable (not complete, but pretty decent) test suite in rspec.
+
 ### Define Requirements
 [Working document](docs/braindump.md)
 #### Near-term Goals
